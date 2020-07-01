@@ -16,12 +16,11 @@ a repository to mock data
 {
   data: [
     {
-      company: 公司
-      position: 职务
-      name: 姓名
-      IDType: 证件类型
-      IDNumber: 证件号
-      ...
+      uid: '123',
+      company: '公司',
+      name: '姓名',
+      IDNumber: '证件号',
+      phone: '手机号‘
     },
     ...
   ]
