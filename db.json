@@ -2,17 +2,33 @@
   "getWorkflowCustomSearchData": {
     "data": [
       {
-        "company": "公司1",
-        "position": "职务1",
-        "name": "姓名1",
+        "company": "无锡计算机有限公司",
+        "name": "李效如",
+        "IDNumber": "320922199208267111",
+        "phone": "13776604615",
         "IDType": "1",
-        "IDNumber": "1234567"
+        "position": "职务"
       },{
-        "company": "公司2",
-        "position": "职务2",
-        "name": "姓名2",
-        "IDType": "2",
-        "IDNumber": "83272343"
+        "company": "苏州新天强",
+        "name": "朱效飞",
+        "IDNumber": "320922199208267111",
+        "phone": "13776604615",
+        "IDType": "1",
+        "position": "职务"
+      },{
+        "company": "无锡计算机有限公司",
+        "name": "李效如",
+        "IDNumber": "320922199208267111",
+        "phone": "13776604615",
+        "IDType": "1",
+        "position": "职务"
+      },{
+        "company": "苏州新天强",
+        "name": "朱效飞",
+        "IDNumber": "320922199208267111",
+        "phone": "13776604615",
+        "IDType": "1",
+        "position": "职务"
       }
     ]
   }
