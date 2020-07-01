@@ -1,25 +1,19 @@
 {
-  "api": {
-    "workflow": {
-      "custom": {
-        "getSearchData": {
-          "data": [
-            {
-              "company": "公司1",
-              "position": "职务1",
-              "name": "姓名1",
-              "IDType": "1",
-              "IDNumber": "1234567"
-            },{
-              "company": "公司2",
-              "position": "职务2",
-              "name": "姓名2",
-              "IDType": "2",
-              "IDNumber": "83272343"
-            }
-          ]
-        }
+  "getWorkflowCustomSearchData": {
+    "data": [
+      {
+        "company": "公司1",
+        "position": "职务1",
+        "name": "姓名1",
+        "IDType": "1",
+        "IDNumber": "1234567"
+      },{
+        "company": "公司2",
+        "position": "职务2",
+        "name": "姓名2",
+        "IDType": "2",
+        "IDNumber": "83272343"
       }
-    }
+    ]
   }
 }

@@ -3,8 +3,8 @@ a repository to mock data
 
 ### route
 
-#### /jason5014/mockdata/api/workflow/custom/getSerachData
-// 海太访客流程智能输入搜索请求
+#### /jason5014/mockdata/getWorkflowCustomSearchData
+海太访客流程智能输入搜索请求
 - method: get
 - params: company, dept | name, dept
 ```
